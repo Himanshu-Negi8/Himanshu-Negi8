@@ -4,7 +4,7 @@ I'm a passionate software engineer with a broad range of experience in software 
 
 - 🌐 **Programming Languages**: I have worked extensively with C, C++, Python, and Go building robust and scalable applications.
   
-- 🛠️ **Frameworks & Tools**: I have hands-on experience with Django, JavaSscript crafting full-stack applications and backend services.
+- 🛠️ **Frameworks & Tools**: I have hands-on experience with Django, JavaScript crafting full-stack applications and backend services.
 
 - ⚙️ **Kubernetes & Service Mesh**: Strong working knowledge of **Kubernetes** and service mesh technologies like **Istio** for managing microservices in production.
 
